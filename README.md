@@ -8,3 +8,7 @@ Demo illustrating the usage of Spring Cloud Stream  in order to integrate with K
 6. https://github.com/adriandanielpopescu/spring-cloud-stream-with-kafka-streams-join-example/blob/master/src/main/java/com/scaleoutdata/spring/cloud/stream/kafka/streams/join_example/config/KafkaStreamsConfig.java
 7. https://devpress.csdn.net/bigdata/6304c2097e6682346619c89a.html
 8. https://github.com/henriquels25/spring-cloud-stream-sample
+
+
+How to reset kafka cloud stream from beginning
+1. https://stackoverflow.com/questions/64760276/read-kafka-topic-from-beginning
