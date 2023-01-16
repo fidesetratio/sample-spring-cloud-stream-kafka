@@ -12,3 +12,6 @@ Demo illustrating the usage of Spring Cloud Stream  in order to integrate with K
 
 How to reset kafka cloud stream from beginning
 1. https://stackoverflow.com/questions/64760276/read-kafka-topic-from-beginning
+
+Deduplication
+1.https://github.com/syscrest/gdelt-on-spring-cloud-data-flow
