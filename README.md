@@ -14,4 +14,7 @@ How to reset kafka cloud stream from beginning
 1. https://stackoverflow.com/questions/64760276/read-kafka-topic-from-beginning
 
 Deduplication
+
 1.https://github.com/syscrest/gdelt-on-spring-cloud-data-flow
+2. https://blog.softwaremill.com/de-de-de-de-duplicating-events-with-kafka-streams-ed10cfc59fbe
+
