@@ -23,3 +23,4 @@ Deduplication
 4. https://cloud.google.com/community/tutorials/pubsub-spring-dedup-messages
 5. https://github.com/jaceklaskowski/mastering-kafka-streams-book
 6. https://tanzu.vmware.com/developer/guides/spring-cloud-stream-kafka-p3/
+7. https://github.com/benwatson528/kafka-streams-drools
