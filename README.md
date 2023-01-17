@@ -21,3 +21,4 @@ Deduplication
 
 3. https://juplo.de/deduplicating-partitioned-data-with-kafka-streams/
 4. https://cloud.google.com/community/tutorials/pubsub-spring-dedup-messages
+5. https://github.com/jaceklaskowski/mastering-kafka-streams-book
