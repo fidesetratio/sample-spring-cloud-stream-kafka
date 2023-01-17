@@ -24,3 +24,4 @@ Deduplication
 5. https://github.com/jaceklaskowski/mastering-kafka-streams-book
 6. https://tanzu.vmware.com/developer/guides/spring-cloud-stream-kafka-p3/
 7. https://github.com/benwatson528/kafka-streams-drools
+8. https://gist.github.com/itzg/e3ebfd7aec220bf0522e23a65b1296c8
