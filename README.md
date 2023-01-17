@@ -25,3 +25,4 @@ Deduplication
 6. https://tanzu.vmware.com/developer/guides/spring-cloud-stream-kafka-p3/
 7. https://github.com/benwatson528/kafka-streams-drools
 8. https://gist.github.com/itzg/e3ebfd7aec220bf0522e23a65b1296c8
+9. https://stackoverflow.com/questions/72541110/multiple-spring-kafka-stream-processors-in-one-spring-boot-application
