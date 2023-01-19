@@ -35,3 +35,4 @@ Multiple Kafka Streams
 1. https://stackoverflow.com/questions/72541110/multiple-spring-kafka-stream-processors-in-one-spring-boot-application
 2. https://ncodify.medium.com/multiple-kafka-stream-configurations-in-a-spring-boot-application-9ac342ed67d8
 3. https://sg.wantedly.com/companies/bebit/post_articles/394053
+4. https://www.anycodings.com/1questions/5767389/how-to-configure-two-instances-of-kafka-streamsbuilderfactorybean-in-spring-boot
