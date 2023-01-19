@@ -27,3 +27,4 @@ Deduplication
 8. https://gist.github.com/itzg/e3ebfd7aec220bf0522e23a65b1296c8
 9. https://stackoverflow.com/questions/72541110/multiple-spring-kafka-stream-processors-in-one-spring-boot-application
 10. https://stackoverflow.com/questions/55803210/how-to-handle-duplicate-messages-using-kafka-streaming-dsl-functions
+11. https://gist.github.com/devgrok/10d02f67204fcf1a650be569a391ef3d
