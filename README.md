@@ -37,3 +37,4 @@ Multiple Kafka Streams
 3. https://sg.wantedly.com/companies/bebit/post_articles/394053
 4. https://www.anycodings.com/1questions/5767389/how-to-configure-two-instances-of-kafka-streamsbuilderfactorybean-in-spring-boot
 5. https://developer.confluent.io/learn-kafka/spring/process-messages-with-kafka-streams/
+6. https://github.com/lydtechconsulting/kafka-streams/tree/v1.3.0
