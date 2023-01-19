@@ -29,3 +29,8 @@ Deduplication
 10. https://stackoverflow.com/questions/55803210/how-to-handle-duplicate-messages-using-kafka-streaming-dsl-functions
 11. https://gist.github.com/devgrok/10d02f67204fcf1a650be569a391ef3d
 12. http://www.devgrok.com/2021/02/deduping-messages-in-kafka-streams.html
+
+
+Multiple Kafka Streams
+1. https://stackoverflow.com/questions/72541110/multiple-spring-kafka-stream-processors-in-one-spring-boot-application
+2. https://ncodify.medium.com/multiple-kafka-stream-configurations-in-a-spring-boot-application-9ac342ed67d8
