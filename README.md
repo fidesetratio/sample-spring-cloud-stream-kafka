@@ -39,3 +39,13 @@ Multiple Kafka Streams
 5. https://developer.confluent.io/learn-kafka/spring/process-messages-with-kafka-streams/
 6. https://github.com/lydtechconsulting/kafka-streams/tree/v1.3.0
 7. https://medium.com/@ceyhunuzngl/kafka-stream-processor-api-in-spring-boot-4e251067a58f
+
+
+
+Test kafka and tips and trick
+https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/graph/StreamsGraphTest.java
+https://github.com/JohnReedLOL/kafka-streams/blob/master/src/main/java/io/confluent/examples/streams/PageViewRegionExample.java
+https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/KStreamMapValuesTest.java
+https://github.com/JohnReedLOL/kafka-streams/blob/master/src/main/java/io/confluent/examples/streams/TopArticlesLambdaExample.java
+https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/KStreamMapValuesTest.java
+
