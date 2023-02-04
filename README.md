@@ -52,6 +52,7 @@ Test kafka and tips and trick
 5.https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/KStreamMapValuesTest.java
 6.https://stackoverflow.com/questions/61144434/spring-kafka-re-create-kafka-stream-topology-in-runtime
 7.https://stackoverflow.com/questions/70991513/using-kafka-streams-processor-api-to-combine-multiple-processors
+8.https://gitee.com/thomas9696/kafka-streams-examples/tree/master
 
 Gunain kafka stream api with spring boot
 
