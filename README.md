@@ -48,4 +48,5 @@ https://github.com/JohnReedLOL/kafka-streams/blob/master/src/main/java/io/conflu
 https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/KStreamMapValuesTest.java
 https://github.com/JohnReedLOL/kafka-streams/blob/master/src/main/java/io/confluent/examples/streams/TopArticlesLambdaExample.java
 https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/KStreamMapValuesTest.java
+https://stackoverflow.com/questions/61144434/spring-kafka-re-create-kafka-stream-topology-in-runtime
 
