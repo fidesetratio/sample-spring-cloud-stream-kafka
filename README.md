@@ -32,6 +32,7 @@ Deduplication
 
 
 Multiple Kafka Streams
+
 1. https://stackoverflow.com/questions/72541110/multiple-spring-kafka-stream-processors-in-one-spring-boot-application
 2. https://ncodify.medium.com/multiple-kafka-stream-configurations-in-a-spring-boot-application-9ac342ed67d8
 3. https://sg.wantedly.com/companies/bebit/post_articles/394053
@@ -43,6 +44,7 @@ Multiple Kafka Streams
 
 
 Test kafka and tips and trick
+
 1.https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/graph/StreamsGraphTest.java
 2.https://github.com/JohnReedLOL/kafka-streams/blob/master/src/main/java/io/confluent/examples/streams/PageViewRegionExample.java
 3.https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/KStreamMapValuesTest.java
@@ -51,6 +53,7 @@ Test kafka and tips and trick
 6.https://stackoverflow.com/questions/61144434/spring-kafka-re-create-kafka-stream-topology-in-runtime
 
 Gunain kafka stream api with spring boot
+
 1.https://github.com/mrceyhun/kafka-producer-api-example
 2.https://medium.com/@ceyhunuzngl/kafka-stream-processor-api-in-spring-boot-4e251067a58f
 
