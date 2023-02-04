@@ -51,5 +51,6 @@ https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafk
 https://stackoverflow.com/questions/61144434/spring-kafka-re-create-kafka-stream-topology-in-runtime
 
 Gunain kafka stream api with spring boot
+https://github.com/mrceyhun/kafka-producer-api-example
 https://medium.com/@ceyhunuzngl/kafka-stream-processor-api-in-spring-boot-4e251067a58f
 
