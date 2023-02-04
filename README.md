@@ -43,14 +43,14 @@ Multiple Kafka Streams
 
 
 Test kafka and tips and trick
-https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/graph/StreamsGraphTest.java
-https://github.com/JohnReedLOL/kafka-streams/blob/master/src/main/java/io/confluent/examples/streams/PageViewRegionExample.java
-https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/KStreamMapValuesTest.java
-https://github.com/JohnReedLOL/kafka-streams/blob/master/src/main/java/io/confluent/examples/streams/TopArticlesLambdaExample.java
-https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/KStreamMapValuesTest.java
-https://stackoverflow.com/questions/61144434/spring-kafka-re-create-kafka-stream-topology-in-runtime
+1.https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/graph/StreamsGraphTest.java
+2.https://github.com/JohnReedLOL/kafka-streams/blob/master/src/main/java/io/confluent/examples/streams/PageViewRegionExample.java
+3.https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/KStreamMapValuesTest.java
+4.https://github.com/JohnReedLOL/kafka-streams/blob/master/src/main/java/io/confluent/examples/streams/TopArticlesLambdaExample.java
+5.https://github.com/a0x8o/kafka/blob/master/streams/src/test/java/org/apache/kafka/streams/kstream/internals/KStreamMapValuesTest.java
+6.https://stackoverflow.com/questions/61144434/spring-kafka-re-create-kafka-stream-topology-in-runtime
 
 Gunain kafka stream api with spring boot
-https://github.com/mrceyhun/kafka-producer-api-example
-https://medium.com/@ceyhunuzngl/kafka-stream-processor-api-in-spring-boot-4e251067a58f
+1.https://github.com/mrceyhun/kafka-producer-api-example
+2.https://medium.com/@ceyhunuzngl/kafka-stream-processor-api-in-spring-boot-4e251067a58f
 
