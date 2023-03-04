@@ -63,4 +63,6 @@ Gunain kafka stream api with spring boot
 Kafka Strong Explanation
 https://github.com/vishaluplanchwar/KafkaTutorials
 
+Kafka Streams Simple api
+1. https://github.com/leonardotorresaltez/custom-metrics-demo
 
